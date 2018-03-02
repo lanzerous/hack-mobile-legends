@@ -1,0 +1,8 @@
+{
+    "name": "mobile-legends-hack/hack-mobile-legends",
+    "description": "Mobile Legends Hack ++ Cheats Get Unlimited Free Diamonds ++ Battle Points (No Survey) The latest Free Diamonds ++ Battle Points cheats are here for both Android and iOS devices. 100% Working and No Survey (Updated 2018). Mobile Legends Hack Mod APK + iPA Download now!.",
+    "require": {
+        "php": "^5.3.3 || ^7.0",
+        "another-vendor/package": "1.*"
+    }
+}
